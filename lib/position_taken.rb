@@ -3,4 +3,5 @@ def position_taken?(board,index)
     FALSE
   else NIL
   end
+end
   
